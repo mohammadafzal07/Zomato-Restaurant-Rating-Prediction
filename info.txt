@@ -1,0 +1,502 @@
+2022-08-04 13:15-40 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:15-41 WARNING- * Debugger is active!
+2022-08-04 13:15-41 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:15-41 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:20-29 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:20-30 WARNING- * Debugger is active!
+2022-08-04 13:20-30 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:20-30 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:21-26 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:21-27 WARNING- * Debugger is active!
+2022-08-04 13:21-27 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:21-27 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:26-59 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:27-00 WARNING- * Debugger is active!
+2022-08-04 13:27-00 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:27-00 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:27-13 INFO-Accessing index.html!!!
+2022-08-04 13:27-13 INFO-127.0.0.1 - - [04/Aug/2022 13:27:13] "[37mGET / HTTP/1.1[0m" 200 -
+2022-08-04 13:27-13 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2022-08-04 13:27-13 INFO-127.0.0.1 - - [04/Aug/2022 13:27:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-04 13:27-14 INFO-127.0.0.1 - - [04/Aug/2022 13:27:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-08-04 13:27-14 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:27-16 WARNING- * Debugger is active!
+2022-08-04 13:27-16 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:27-16 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:27-29 INFO-Successfully retrieved information from user
+2022-08-04 13:27-29 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+2022-08-04 13:27-30 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:27-31 WARNING- * Debugger is active!
+2022-08-04 13:27-32 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:27-32 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:27-32 INFO-Successfully retrieved information from user
+2022-08-04 13:27-35 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\IN\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-08-04 13:27-35 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\IN\\__pycache__\\SRV.cpython-38.pyc', reloading
+2022-08-04 13:27-35 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\__pycache__\\util.cpython-38.pyc', reloading
+2022-08-04 13:27-35 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\ANY\\__pycache__\\NS.cpython-38.pyc', reloading
+2022-08-04 13:27-35 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\__pycache__\\nsbase.cpython-38.pyc', reloading
+2022-08-04 13:27-36 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:27-37 WARNING- * Debugger is active!
+2022-08-04 13:27-37 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:27-37 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:27-53 INFO-Accessing index.html!!!
+2022-08-04 13:27-53 INFO-127.0.0.1 - - [04/Aug/2022 13:27:53] "[37mGET / HTTP/1.1[0m" 200 -
+2022-08-04 13:27-53 INFO-127.0.0.1 - - [04/Aug/2022 13:27:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-04 13:28-03 INFO-Successfully retrieved information from user
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\ANY\\__pycache__\\TXT.cpython-38.pyc', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\dns\\rdtypes\\__pycache__\\txtbase.cpython-38.pyc', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\pymongo\\settings.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\pymongo\\mongo_client.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\http\\server.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\socketserver.py', reloading
+2022-08-04 13:28-09 INFO- * Detected change in 'C:\\Users\\coola\\anaconda3\\Lib\\threading.py', reloading
+2022-08-04 13:28-09 INFO-Successfully retrieved info from user
+2022-08-04 13:28-10 INFO- * Restarting with windowsapi reloader
+2022-08-04 13:28-12 WARNING- * Debugger is active!
+2022-08-04 13:28-12 INFO- * Debugger PIN: 179-364-486
+2022-08-04 13:28-12 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-04 13:28-12 INFO-Successfully retrieved information from user
+2022-08-04 13:28-18 INFO-Successfully retrieved info from user
+2022-08-04 13:28-20 INFO-Data inserted
+2022-08-04 13:28-20 INFO-successfully predicted
+2022-08-04 13:28-20 INFO-127.0.0.1 - - [04/Aug/2022 13:28:20] "[37mPOST /prdict HTTP/1.1[0m" 200 -
+2022-08-04 13:28-20 INFO-127.0.0.1 - - [04/Aug/2022 13:28:20] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-04 13:28-33 INFO-Accessing index.html!!!
+2022-08-04 13:28-33 INFO-127.0.0.1 - - [04/Aug/2022 13:28:33] "[37mGET / HTTP/1.1[0m" 200 -
+2022-08-04 13:28-33 INFO-127.0.0.1 - - [04/Aug/2022 13:28:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-04 13:28-52 INFO-Successfully retrieved information from user
+2022-08-04 13:28-58 INFO-Successfully retrieved info from user
+2022-08-04 13:29-00 INFO-Data inserted
+2022-08-04 13:29-00 INFO-successfully predicted
+2022-08-04 13:29-00 INFO-127.0.0.1 - - [04/Aug/2022 13:29:00] "[37mPOST /prdict HTTP/1.1[0m" 200 -
+2022-08-04 13:29-00 INFO-127.0.0.1 - - [04/Aug/2022 13:29:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:34-01 INFO- * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.42.238:8080 (Press CTRL+C to quit)
+2022-08-05 09:34-33 INFO-Accessing index.html!!!
+2022-08-05 09:34-33 INFO-103.28.246.71 - - [05/Aug/2022 09:34:33] "GET / HTTP/1.1" 200 -
+2022-08-05 09:34-33 INFO-103.28.246.71 - - [05/Aug/2022 09:34:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:34-37 INFO-103.28.246.71 - - [05/Aug/2022 09:34:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-08-05 09:35-02 INFO-Successfully retrieved information from user
+2022-08-05 09:35-02 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:35-02 INFO-103.28.246.71 - - [05/Aug/2022 09:35:02] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:35-13 INFO-Accessing index.html!!!
+2022-08-05 09:35-13 INFO-103.28.246.71 - - [05/Aug/2022 09:35:13] "GET / HTTP/1.1" 200 -
+2022-08-05 09:35-13 INFO-103.28.246.71 - - [05/Aug/2022 09:35:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:35-25 INFO-Successfully retrieved information from user
+2022-08-05 09:35-25 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:35-25 INFO-103.28.246.71 - - [05/Aug/2022 09:35:25] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:36-31 INFO- * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.42.238:8080 (Press CTRL+C to quit)
+2022-08-05 09:36-40 INFO-103.28.246.71 - - [05/Aug/2022 09:36:40] "[31m[1mGET /prdict HTTP/1.1[0m" 405 -
+2022-08-05 09:36-43 INFO-Accessing index.html!!!
+2022-08-05 09:36-43 INFO-103.28.246.71 - - [05/Aug/2022 09:36:43] "GET / HTTP/1.1" 200 -
+2022-08-05 09:36-43 INFO-103.28.246.71 - - [05/Aug/2022 09:36:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:36-54 INFO-Successfully retrieved information from user
+2022-08-05 09:36-54 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:36-54 INFO-103.28.246.71 - - [05/Aug/2022 09:36:54] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:37-58 INFO-Accessing index.html!!!
+2022-08-05 09:37-58 INFO-103.28.246.71 - - [05/Aug/2022 09:37:58] "GET / HTTP/1.1" 200 -
+2022-08-05 09:37-58 INFO-103.28.246.71 - - [05/Aug/2022 09:37:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:38-08 INFO-Successfully retrieved information from user
+2022-08-05 09:38-08 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:38-08 INFO-103.28.246.71 - - [05/Aug/2022 09:38:08] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:41-28 INFO-Accessing index.html!!!
+2022-08-05 09:41-28 INFO-103.28.246.71 - - [05/Aug/2022 09:41:28] "GET / HTTP/1.1" 200 -
+2022-08-05 09:41-28 INFO-103.28.246.71 - - [05/Aug/2022 09:41:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:41-40 INFO-Successfully retrieved information from user
+2022-08-05 09:41-40 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:41-40 INFO-103.28.246.71 - - [05/Aug/2022 09:41:40] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:41-46 INFO-Accessing index.html!!!
+2022-08-05 09:41-46 INFO-103.28.246.71 - - [05/Aug/2022 09:41:46] "GET / HTTP/1.1" 200 -
+2022-08-05 09:41-46 INFO-103.28.246.71 - - [05/Aug/2022 09:41:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:42-32 INFO-Successfully retrieved information from user
+2022-08-05 09:42-32 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:42-32 INFO-103.28.246.71 - - [05/Aug/2022 09:42:32] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:42-44 INFO-192.241.208.234 - - [05/Aug/2022 09:42:44] "[33mGET /hudson HTTP/1.1[0m" 404 -
+2022-08-05 09:43-56 INFO- * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.42.238:8080 (Press CTRL+C to quit)
+2022-08-05 09:44-09 INFO-Accessing index.html!!!
+2022-08-05 09:44-09 INFO-103.28.246.71 - - [05/Aug/2022 09:44:09] "GET / HTTP/1.1" 200 -
+2022-08-05 09:44-09 INFO-103.28.246.71 - - [05/Aug/2022 09:44:09] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:44-19 INFO-Accessing index.html!!!
+2022-08-05 09:44-19 INFO-46.174.191.28 - - [05/Aug/2022 09:44:19] "GET / HTTP/1.0" 200 -
+2022-08-05 09:44-20 INFO-Successfully retrieved information from user
+2022-08-05 09:44-20 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:44-20 INFO-103.28.246.71 - - [05/Aug/2022 09:44:20] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:45-52 INFO-Successfully retrieved information from user
+2022-08-05 09:45-52 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:45-52 INFO-103.28.246.71 - - [05/Aug/2022 09:45:52] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:46-17 INFO-Accessing index.html!!!
+2022-08-05 09:46-17 INFO-103.28.246.71 - - [05/Aug/2022 09:46:17] "GET / HTTP/1.1" 200 -
+2022-08-05 09:46-17 INFO-103.28.246.71 - - [05/Aug/2022 09:46:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:46-29 INFO-Successfully retrieved information from user
+2022-08-05 09:46-29 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:46-29 INFO-103.28.246.71 - - [05/Aug/2022 09:46:29] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:46-39 INFO-Successfully retrieved information from user
+2022-08-05 09:46-39 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 44, in predict
+    client = pymongo.MongoClient(default_connection_url)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 726, in __init__
+    res = uri_parser.parse_uri(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/uri_parser.py", line 469, in parse_uri
+    raise ConfigurationError(
+pymongo.errors.ConfigurationError: The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ /usr/bin/python3 -m pip install "pymongo[srv]"
+2022-08-05 09:46-39 INFO-103.28.246.71 - - [05/Aug/2022 09:46:39] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:48-57 INFO- * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.42.238:8080 (Press CTRL+C to quit)
+2022-08-05 09:49-00 INFO-Accessing index.html!!!
+2022-08-05 09:49-00 INFO-103.28.246.71 - - [05/Aug/2022 09:49:00] "GET / HTTP/1.1" 200 -
+2022-08-05 09:49-00 INFO-103.28.246.71 - - [05/Aug/2022 09:49:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:49-10 INFO-Successfully retrieved information from user
+2022-08-05 09:49-10 INFO-Successfully retrieved info from user
+2022-08-05 09:49-40 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 74, in predict
+    collection.insert_one(info)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 621, in insert_one
+    self._insert_one(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 562, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1447, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "/usr/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1729, in _tmp_session
+    s = self._ensure_session(session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1712, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1657, in __start_session
+    self._topology._check_implicit_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 538, in _check_implicit_session_support
+    self._check_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 554, in _check_session_support
+    self._select_servers_loop(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 238, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: , Timeout: 30s, Topology Description: <TopologyDescription id: 62ece7963098606fecdf74bf, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ')>]>
+2022-08-05 09:49-40 INFO-103.28.246.71 - - [05/Aug/2022 09:49:40] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:50-21 INFO-Accessing index.html!!!
+2022-08-05 09:50-21 INFO-103.28.246.71 - - [05/Aug/2022 09:50:21] "GET / HTTP/1.1" 200 -
+2022-08-05 09:50-21 INFO-103.28.246.71 - - [05/Aug/2022 09:50:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:50-36 INFO-Successfully retrieved information from user
+2022-08-05 09:50-36 INFO-Successfully retrieved info from user
+2022-08-05 09:51-06 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 74, in predict
+    collection.insert_one(info)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 621, in insert_one
+    self._insert_one(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 562, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1447, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "/usr/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1729, in _tmp_session
+    s = self._ensure_session(session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1712, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1657, in __start_session
+    self._topology._check_implicit_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 538, in _check_implicit_session_support
+    self._check_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 554, in _check_session_support
+    self._select_servers_loop(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 238, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: , Timeout: 30s, Topology Description: <TopologyDescription id: 62ece7ec3098606fecdf74c1, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ')>]>
+2022-08-05 09:51-06 INFO-103.28.246.71 - - [05/Aug/2022 09:51:06] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:51-49 INFO- * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.42.238:8080 (Press CTRL+C to quit)
+2022-08-05 09:51-49 INFO-Accessing index.html!!!
+2022-08-05 09:51-49 INFO-103.28.246.71 - - [05/Aug/2022 09:51:49] "GET / HTTP/1.1" 200 -
+2022-08-05 09:51-49 INFO-103.28.246.71 - - [05/Aug/2022 09:51:49] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:52-02 INFO-Successfully retrieved information from user
+2022-08-05 09:52-02 INFO-Successfully retrieved info from user
+2022-08-05 09:52-32 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 74, in predict
+    collection.insert_one(info)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 621, in insert_one
+    self._insert_one(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 562, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1447, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "/usr/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1729, in _tmp_session
+    s = self._ensure_session(session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1712, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1657, in __start_session
+    self._topology._check_implicit_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 538, in _check_implicit_session_support
+    self._check_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 554, in _check_session_support
+    self._select_servers_loop(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 238, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: , Timeout: 30s, Topology Description: <TopologyDescription id: 62ece8428a44dd0dc7bcae9e, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ')>]>
+2022-08-05 09:52-32 INFO-103.28.246.71 - - [05/Aug/2022 09:52:32] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:53-26 INFO-Accessing index.html!!!
+2022-08-05 09:53-26 INFO-103.28.246.71 - - [05/Aug/2022 09:53:26] "GET / HTTP/1.1" 200 -
+2022-08-05 09:53-26 INFO-103.28.246.71 - - [05/Aug/2022 09:53:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:53-36 INFO-Successfully retrieved information from user
+2022-08-05 09:53-37 INFO-Successfully retrieved info from user
+2022-08-05 09:54-07 ERROR-Exception on /prdict [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 74, in predict
+    collection.insert_one(info)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 621, in insert_one
+    self._insert_one(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/collection.py", line 562, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1447, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "/usr/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1729, in _tmp_session
+    s = self._ensure_session(session)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1712, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1657, in __start_session
+    self._topology._check_implicit_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 538, in _check_implicit_session_support
+    self._check_session_support()
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 554, in _check_session_support
+    self._select_servers_loop(
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/pymongo/topology.py", line 238, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ,ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: , Timeout: 30s, Topology Description: <TopologyDescription id: 62ece8a08a44dd0dc7bcaea0, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-00.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-01.uzpfsbd.mongodb.net:27017: ')>, <ServerDescription ('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-z4fmhro-shard-00-02.uzpfsbd.mongodb.net:27017: ')>]>
+2022-08-05 09:54-07 INFO-103.28.246.71 - - [05/Aug/2022 09:54:07] "[35m[1mPOST /prdict HTTP/1.1[0m" 500 -
+2022-08-05 09:57-23 INFO-Accessing index.html!!!
+2022-08-05 09:57-23 INFO-103.28.246.71 - - [05/Aug/2022 09:57:23] "GET / HTTP/1.1" 200 -
+2022-08-05 09:57-23 INFO-103.28.246.71 - - [05/Aug/2022 09:57:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:57-35 INFO-Successfully retrieved information from user
+2022-08-05 09:57-35 INFO-Successfully retrieved info from user
+2022-08-05 09:57-36 INFO-Data inserted
+2022-08-05 09:57-36 INFO-successfully predicted
+2022-08-05 09:57-36 INFO-103.28.246.71 - - [05/Aug/2022 09:57:36] "POST /prdict HTTP/1.1" 200 -
+2022-08-05 09:57-36 INFO-103.28.246.71 - - [05/Aug/2022 09:57:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:57-46 INFO-Accessing index.html!!!
+2022-08-05 09:57-46 INFO-103.28.246.71 - - [05/Aug/2022 09:57:46] "GET / HTTP/1.1" 200 -
+2022-08-05 09:57-46 INFO-103.28.246.71 - - [05/Aug/2022 09:57:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:57-56 INFO-161.35.54.248 - - [05/Aug/2022 09:57:56] "[33mGET /manager/html HTTP/1.1[0m" 404 -
+2022-08-05 09:59-14 INFO-Accessing index.html!!!
+2022-08-05 09:59-14 INFO-103.28.246.71 - - [05/Aug/2022 09:59:14] "GET / HTTP/1.1" 200 -
+2022-08-05 09:59-14 INFO-103.28.246.71 - - [05/Aug/2022 09:59:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2022-08-05 09:59-26 INFO-Successfully retrieved information from user
+2022-08-05 09:59-26 INFO-Successfully retrieved info from user
+2022-08-05 09:59-28 INFO-Data inserted
+2022-08-05 09:59-28 INFO-successfully predicted
+2022-08-05 09:59-28 INFO-103.28.246.71 - - [05/Aug/2022 09:59:28] "POST /prdict HTTP/1.1" 200 -
+2022-08-05 09:59-28 INFO-103.28.246.71 - - [05/Aug/2022 09:59:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
