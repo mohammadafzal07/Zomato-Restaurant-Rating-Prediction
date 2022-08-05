@@ -1,4 +1,3 @@
-
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle
@@ -40,7 +39,7 @@ def predict():
 
             logging.info("Successfully retrieved information from user")
             
-    default_connection_url = "mongodb+srv://afzal:afzal123@mydb.xie5c.mongodb.net/test"
+    default_connection_url = "mongodb+srv://afzal:afzal123@cluster0.uzpfsbd.mongodb.net/test"
     client = pymongo.MongoClient(default_connection_url)
     logging.info('Successfully retrieved info from user')
 
@@ -78,4 +77,6 @@ def predict():
     return render_template('index.html', prediction_text='Your Rating is: {}'.format(output))
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0',port=8080)
+
+    #app.run(debug=True)
